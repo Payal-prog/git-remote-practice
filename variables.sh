@@ -6,3 +6,4 @@ goal="DevOps Engineer"
 Country=Canada
 purpose="Testing standard merge"
 VAR_A="firstSquashTest"
+# Rebase practice
