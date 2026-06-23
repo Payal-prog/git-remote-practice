@@ -16,3 +16,5 @@ In GitHub, a Rebase and Merge is a pull request merging strategy that takes all 
 
 ## Project Status
 Pending
+
+* Squash test note

@@ -5,3 +5,4 @@ age=26
 goal="DevOps Engineer"
 Country=Canada
 purpose="Testing standard merge"
+VAR_A="firstSquashTest"
